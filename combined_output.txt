@@ -1,0 +1,1897 @@
+==HEADER PAGE 1==
+Deloitte.
+
+China Lithium Industry
+Deloitte POV 3.0: Sustainable Future of Lithium Recycle
+
+Deloitte Consulting China | November, 2022
+
+4
+sy
+
+=)
+
+==HEADER PAGE 2==
+Key Takeaways
+
+With the rapid growth of global new energy vehicle industry, the upstream resource constraint has become one of the burning issues. While various countries continue to perfect the EV battery
+recycling policy system under the carbon neutral requirements, the EV battery recycling industry has been flourishing, and the upcoming battery retirement tide will further drive the development of
+the EV battery recycling industry. The EV battery recycling market is promising in technology development, business model, and industry chain synergy, but there are still many key challenges.
+
+From the technology development perspective, the process and technical route of EV battery recycling is relatively clear. Based on actual business expectations,
+direct recycle will dominate the recovery method in the medium- to long-term:
+
+The two main ways of EV battery recycling are reuse and direct recycle. The large-scale development of reuse faces enormous challenges due to safety issues, insufficient market regulation, the
+
+impact of vicious competition, and the lack of industry standards. In the medium- to long-term, recycle with relatively mature technologies and commercial applications is expected to be the
+dominant approach
+
+In the material recovery process, pyro- and hydro-metallurgy are the mainstream battery-grade raw material purification and regeneration techniques, which has high technical and scale
+
+barriers, while creating higher economic benefits, leading companies need to address the supply stability of front-end battery recycling channels and actively layout raw material recycling
+capacity to achieve higher commercial value
+
+@ From the business model perspective, third-party and battery manufacturer recycling have been well-practiced. The construction of recycling networks and
+closed-loop regeneration are essential success factors:
+
+The market mechanism is the main challenge for the current development of the EV battery recycling industry. It forces the leading recycler enterprises to enhance their scale and break
+through the profitability bottleneck
+
+Third-party recycling companies have the advantage of recycling technology, while battery manufacturers and automotive OEMs gained the advantage of recycling and resale channels; in the
+current EV battery recycling market, the key to successful business models lies in the construction of recycling channel networks and a closed-loop ecology for recycling materials for reuse
+
+From the industry chain synergy perspective, the multiple sectors of the Li-battery and NEV industry chain have shown the trend of extending to battery recycling
+in different forms and degrees:
+
+Upstream lithium and new energy vehicle industry technology and market trends, such as battery material innovation, integration technology, battery banks, etc., bring impact to the power
+battery recycling industry, and opportunities and challenges coexist
+
+An industry alliance of upstream and downstream enterprises in the industry chain may be an ideal model for the recycling industry, as each member enterprise can complement each other’s
+strengths and weaknesses for mutual benefits. However, due to the long industry chain and many stakeholders involved, the model is still in the exploration stage of actual commercial operation
+
+© 2022. For information, contact Deloitte China
+
+==HEADER PAGE 3==
+Trend of EV Battery Recycle Development
+
+01 Industry overview and prospects of EV battery recycle
+
+02 Value chain analysis of EV battery recycle
+
+03 Market challenges and business implications
+
+
+==HEADER PAGE 4==
+Industry overview and prospects
+of EV battery recycle
+
+==HEADER PAGE 5==
+The Imperative EV Battery Recycling: Alleviation to The Constraint of Upstream Resources
+
+The scarcity of upstream resources is a long-term constraint to the development of downstream application market. The lithium resource supply and
+demand gap is expected to emerge and expand gradually after 2025, reaching 145 tonnes of lithium carbonate equivalent in 2030. EV battery recycling will
+
+alleviate the constraints of resource supply and demand imbalance on industry development to a certain extent.
+
+©
+®
+
+Supply: resource pressure
+
+Resource shortage in China
+High-quality mineral resources are
+relatively scarce in China. There are few
+high-quality hard rock lithium mines, and
+the technology and production capacity of
+lithium extraction from salt-lake brine
+require breakthroughs.
+
+Uncertainty of international supply
+The supply of global raw materials is
+concentrated, and the production
+fluctuates wildly. Emergencies such as the
+epidemic outbreak and the Russian-
+Ukrainian conflict have exacerbated the
+uncertainty of the global supply chain.
+
+Long capacity development cycle
+The development cycle of raw materials
+and minerals is relatively long. The
+resource production expansion cycle is
+about four times that of the EV batteries
+expansion cycle, thus leading to the
+mismatch between supply and demand.
+
+Source: CAAM, Minmetals Securities, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China
+
+Global lithium resource supply and demand projection
+(Ten thousand tonnes/LCE)
+
+== Global lithium supply == Global lithium demand
+
+-37%
+
+2022E 2023E 2024E 2025E 2026E 2027E 2028E 2029E 2030E
+
+— Demand: surging EV market ———
+
+Strong application demand
+
+The EV market, as the main application
+scenario of lithium resources, has entered
+a period of rapid growth, and the sales
+volume of EVs in China increased by more
+than 150% year-on-year in 2021.
+
+Difficulty in alternative R&D
+
+The R&D of EV batteries with different
+chemicals is challenging. In the long run,
+Li-batteries, which have a relatively fixed
+demand for mineral resources, will still be
+the mainstay, and it is hard to find an
+alternative solution in the short term.
+
+Intensive competition
+
+Battery companies maintain a rapid pace
+of expansion to seize market share and
+drive the demand for upstream resources,
+amid the increasingly fierce competition in
+the EV battery industry.
+
+==HEADER PAGE 6==
+Global EV Battery Recycling Market Size Prospects
+
+The development of the global EV battery recycling market is about to accelerate, which is expected to exceed 10 billion dollars in the next five years,
+among which the recycling market of the lithium is the most considerable
+
+/ Global EV battery recycling market size projection
+
+Billion USD
+
+Mu Mini Mico Mm
+
+46.5
+
+35.7
+
+26.6
+19.1
+13.5
+9.1 63%
+63%
+6.0
+3.4 4.7 62%
+62% oe
+
+63%
+81% )-
+2021 2022E 2023E 2024E 2025E 2026E 2027E 2028E 2029E 2030E
+
+Source: Anson Securities, Wind, public information, Deloitte analysis
+Remarks: 1. Estimate based on the theoretical recyclable quantity and price of lithium, nickel, cobalt and manganese; 2. Converted at the annual average exchange rate of USD to RMB in 2021 (1USD = 6.45RMB)
+
+© 2022. For information, contact Deloitte China.
+
+==HEADER PAGE 7==
+EV Battery Recycling Market Drivers - Macro Policy Guidance
+
+After years of development, battery recycling policies and legislation in developed countries are complete with stricter requirements; China has
+significantly accelerated the introduction of battery recycling policies over the past decade, aiming to promote and ensure the construction of recycling
+systems and guide the standardized and integrated development of the industry
+
+/ Policy and legislative systems in developed countries started early and are relatively mature / / China’s policy guidance has been strengthened in recent years /
+
+Complete federal, state and local
+battery recycling regulations
+
+The U.S. DOE Prat
+
+Enables the end-of-life reuse of lithium-ion
+batteries and recycling of critical materials at
+scale, plan the construction of a full
+competitive value chain in the United States,
+and promote the development of cost-
+effective recycling technology
+
+Si ee ee 1996
+
+Creates the framework for the proper
+management of hazardous and non-hazardous
+solid waste, including rechargeable batteries,
+lithium-ion car batteries, etc.
+
+The U.S. State Governments
+
+Makes regulations for the types of waste
+recycling, disposal methods, cost, etc. to
+encourage all parties in the industry chain to
+collaborate to help properly recycle batteries
+
+Enhanced requirements and
+strengthen regulatory systems
+
+@ 2022
+
+The proposed battery regulations set increased
+targets related to power battery recycling, with
+stricter requirements for battery recycling
+measures and battery metal material recovery
+rates
+
+Guide to Waste issued by the Federal Office for
+Environmental clarify rules for recycling lithium
+batteries for vehicles and encourage automotive
+OEMs to implement environmentally sound
+disposal system
+
+Regulatory agencies (Stiftung EAR) have the
+responsibility to regulate the battery
+manufacturing market and to check the collection
+and recycling efficiency of each recycling system
+and report market participation
+
+Source: government website, Everbright Securities, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China.
+
+Regulate the industry from the
+legislative level
+
+South Korean’s Parliament fAyat
+
+Ease regulation for mandatory battery recycling
+of previously registered vehicles and allow for
+environmental-friendly utilize of end-of-life
+batteries to improve the secondary utilization
+rate of power batteries
+
+The Ministries of Japan PAW!
+
+The Japan Portable Rechargeable Battery
+Recycling Center (JBRC), jointly authorized by
+Japan's two central ministries, aims to promote
+the comprehensive recycling of used
+rechargeable battery materials
+
+Diet of Japan Hest
+
+Manufacturing enterprises should fulfill the
+responsibility of recycling the used products,
+follow the 3R principle, and encourage that
+end-users send end-of-life batteries to special
+recycling sites
+
+Gradually improve the establishment of the policy system to strengthen the
+
+regulation and policy implementation
+
+MIIT and other two Pry
+
+To develop and introduce new energy vehicle
+power battery recycling management methods
+and related departmental rules
+
+MIIT and other seven yy)
+
+To promote upstream and downstream
+cooperation in the industry chain to build
+recycling channels
+
+[NEA | 2021
+
+Request for establishing the battery consistency
+management, and make requirements for the
+evaluation, monitoring and supervision of
+energy storage projects for secondary use
+
+Wilhg 2020
+
+To promote the NEV power battery recycling
+system development, and to establish a
+number of exemplary enterprises for the
+secondary use and recycling of waste power
+batteries
+
+MIIT and other six fk}
+
+Implementation of the extended producer
+responsibility system, clarify the primary
+responsibility fulfillers of battery recycling
+
+Wilhg 2018
+
+Establish a “comprehensive management
+platform for traceability” to collect
+information on the whole process from
+production to recycling of power batteries
+
+==HEADER PAGE 8==
+Driving Factor of Battery Recycling Market: The Upcoming Trend of EV Battery Retirement
+
+The retirement tide of EV batteries has promoted the gradual release of recyclable battery waste and driven the development of the global lithium
+recycling market, with the volume of end-of-life batteries and process scraps rising at a CAGR of 43% over the next decade; The Chinese market, which
+
+leads the global EV market, is also expected to usher in considerable growth in the field of Li-battery recycling
+/ The projection of global recyclable end-of-life Li-batteries and battery production scraps / / Global EV battery installation shares in 2021 /
+
+GWh WE china
+1,483 Other countries and regions
+
+OO) End-of-life Li-battery
+
+Hl Li-battery process scraps
+MM cathode process scraps? 1,119
+3 840 [=+}
+621 —+}
+0
+453 52.1%
+397 325 China’s EV battery
+— installation
+
+104 156
+61 154.5 GWh
+
+LL __
+2021 2022E 2023E 2024E 2025E 2026E 2027E 2028E 2029E 2030E
+
+¢ With the vigorous development of the global EV market, the installed capacity of EV batteries has risen rapidly. The service life of EV batteries is about 5-8 years. Therefore, the first batch of
+batteries put into the market has ushered in a “retirement tide”, especially in the Chinese market, where the production output and sales of EVs and EV batteries have soared since 2015.
+
+¢ End-of-life batteries are the primary “raw materials” for EV battery recycling. The advent of the EV battery retirement tide will continue to provide recyclable waste for the Li-battery recycling.
+
+Source: SNE Research, China Automotive Battery Innovation Alliance, Wind, Anson Securities, public information, Deloitte analysis
+Remarks: 1. Converted to the amount of EV batteries that can be produced
+© 2022. For information, contact Deloitte China
+
+==HEADER PAGE 9==
+Recycling Methods of EV Battery
+
+Reuse and direct recycle are the most generally acceptable and environmentally friendly methods of batteries disposal. Large-scale applications of EV
+battery reuse is challenging, and EV battery recycling might be dominated by direct recycle in the medium and long term
+
+/ Reuse: utilization of the residual capacity of battery / / Recycle: recovery of metal materials and other resources /
+Anode materials Cathode materials
+Reusable Reuse | Reuse application | Graphite, silicon- Lithium, cobalt, nickel,
+
+doth
+pack based materials pe manganese and other
+metal oxides, recycled
+R bl by direct method and
+nodk I . extractive metallurgy
+module
+—~“— re les
+
+n
+mo}
+°
+$
+o
+£
+Lets)
+£
+=
+>
+[°)
+oO
+cc
+
+End-of-life battery
+
+Reusable Other materials Electrol
+cell Q vw | Metal shell, electrode material, End-of-life vt
+recycled by dismantling, batte Recycled by
+shredding and sorting extracting methods
++ Increase value: optimize the utilization of batteries and maximize the residual value + High recovery rate: Mature in technology, thus the resource recovery rate is high
++ Cost reduction: reduce the cost of energy storage, low-speed electric vehicles and + Simple process: The process is more straightforward than reuse, and there is no need
+other related industries, and promote the development of the circular economy for screening and safety assessment
++ Reduce pollution: effectively reduce the pollution of waste lithium-ion batteries and + Complementary techniques: a combined approach can be applied to improve the
+reduce waste of resources economic benefits of recycling and solve the problem of energy over-consumption
+— Applicable limitations: not suitable for ternary (NMC) lithium battery, difficulty to — Cost issues: The pyro has a large investment and high energy consumption in the early
+maintain economies of scale subject to many qualifications stage, while the hydro is relative time-consuming
+— Inefficiency: The evaluation process of batteries is time-consuming and inefficient — Environmental pollution: Both pyro and hydro cause severe environmental pollution
+— Potential safety risks: The internal safety hazards of retired batteries are highly easily, and the requirements for pollution treatment are high
+concealed, which affects the remaining life and safety of the battery pack — Uncertainty: Emerging techniques such as biological processes and supercritical CO,
+
+extraction are still in startup
+
+Source: CAAM, Anson Securities, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China.
+
+==HEADER PAGE 10==
+Reuse: Development Limitation Factors
+
+The reuse industry has significant development limitations and bottlenecks at the current stage. The downstream application development is expected to
+be slow before the policy system is improved and the industry standard is established
+
+————@ Policy Factor
+
+the initial stage of establishment, and it takes time to improve the
+national regulatory system and local implementation
+
+the policy intends to promote reuse, it also emphasizes the
+importance of strict management of the safety of EV battery reuse,
+
+2022.02
+Accelerating the Promotion of Comprehensive Utilization of Industrial
+Resources
+
+Requirements to improve the recycling system and management system of
+end-of-life power batteries, strengthen traceability management within the
+whole life cycle of battery, promote the safe reuse application of end-of-life
+power batteries in the field of power backup, charging and replacement
+
+2021.09
+
+The Management Standards for New Energy Storage Projects (Provisional)
+
+management and traceability systems and obtain the safety assessment
+
+* The reuse industry management system still needs to be improved:
+The policy management system for the reuse of EV batteries is still in
+
+* Policy guidance maintains a moderately positive attitude: Although
+
+and is especially cautious towards reuse in energy storage scenarios.
+
+Require newly-built energy storage projects to establish a battery consistency
+
+reports issued by corresponding qualified organization for reuse of batteries
+
+Market Factor
+
+Demand side - uncertain potential:
+
+Low acceptance in the downstream market: Due to unclear standards
+and immature regulatory system, frequent accidents of battery reused
+for energy storage have led to low market acceptance. Users are
+concerned about the safety and consistency of reused batteries
+Impact of potential alternative products: the rise of sodium-ion
+batteries and fuel cells and other technologies may replace and
+squeeze the market of LFP batteries for secondary use
+
+Supply side - “bad money drives out good”:
+
+Long-standing market confusion: In the absence of effective
+regulation, many non-compliant small workshops have long been
+entrenched in the reuse market, and it is difficult for enterprises with
+high investments to profit and survive in the vicious competition
+
+Collection
+No hazardous waste Low
+management qualification;
+oe - cost
+No invoicing required
+Small
+workshops Secu
+No inspection/environmental High
+treatment; a5
+efficiency
+
+Low production line input
+
+Key technologies to be broken through, industry standards to be
+established: The battery life-cycle traceability management and
+industry-standard system are to be established, and technical
+problems still exist in several sectors of the reuse technology process
+
+Evaluation and sorting - Battery specifications are complex, and life
+evaluation is difficult
+
+Detection and screening - Lack of battery use records, complicated
+detecting technology
+
+Restructuring - High technical barriers to battery consistency
+management
+
+Product certification - For the formation of industry standards,
+product certification is difficult
+
+Evaluation &
+Sorting
+Restructuring
+
+Battery reuse process
+
+Collection Disassembly
+
+Detection &
+Screening
+
+Certification
+
+CC) Key technical difficulties sectors
+
+@& Technology Factor—————_—_
+
+The current market situation: the current commercialization cases of EV battery reuse are few. Most of the projects are pilot programs, with only a few regular enterprises with qualifications participating,
+such as GEM, China Tower, etc.; the current reuse market is not yet standardized and in chaos. Market confusion caused by non-compliant small workshops forces the regular enterprises into a dilemma,
+which makes the market less attractive to enterprises that have not entered, and the market is difficult to scale up in the short term
+
+Source: government website, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China
+
+10
+
+==HEADER PAGE 11==
+Recycle: Process Flow of EV Battery Recycle
+
+The main challenge of power battery dismantling and recycling lies in the instability of front-end battery recycling channels that make it difficult to scale up
+the production of back-end battery grade raw material refining
+
+Pretreatment Mechanical Process Battery-grade Materials Extraction & Refining Process
+
+ath
+at .
+
+vale
+
+End-of-life battery pack
+
+Pyro-metallurgy
+A
+1
+i.
+ischarging & %
+isassembly re;
+
+| Dismantling, ; ai»
+u
+
+shredding & sorting
+
+Black mass
+(incl. Li, Ni, Cu, Mn, etc.)
+Used cell
+
+—» Typical recycling process oy Plastics, Cu/Al foils etc.
+
+&
+
+--- + Optional process
+
+GHD Recycling product Used electrolyte Electrolyte recovery) —————_________——_ > El
+
+The instability and high cost due to the highly-fragmented battery The mechanical process and the metal refining process after the pretreatment of the battery pack have been relatively mature, can
+recycling channels, and the difficulties of pretreatment due to wide realize the effective conversion of the end-of-life EV batteries to recyclable high-purity raw materials; in the situation of sharply-rising
+range of battery pack specifications are the two main difficulties in the lithium metal raw material prices, large-scale production, stable supply of end-of-life batteries and client relations can realize
+disassembly and recycling process considerable economic returns
+
+Source: public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China. 11
+
+==HEADER PAGE 12==
+Recycle: Mainstream Battery-grade Material Extraction Techniques
+
+Recycling enterprises generally refine the valuable metals in end-of-life EV batteries through hydro or pyro-metallurgy, which are highly-technical maturity
+and with clear steps, while other emerging processes, such as biological processes and supercritical CO, extraction, are still in the early stages of research
+and development; currently, in China, EV battery recycling enterprises’ processes are mainly based on hydro
+
+Use high-temperature to convert metal oxides end-of-life in battery
+materials to metals or metal compounds, which proceeds to condensation
+and refining. Pyro has high compatibility and is applicable to large-scale
+
+recycling of various types of end-of-life Li-batteries.
+
+* Use acids to dissolve the metal components of batteries and then separate
+the constituent elements as inorganic salts and metallic oxide through
+
+solvent extractions, chemical precipitation, and electrolysis steps. Hydro is
+suitable for the recycling of small and medium-scale end-of-life batteries.
+
+Process
+characteristics
+
+Low cost and energy-efficient High investment and energy-intensive
+
+The recovery rate is relatively lower, but is capable of recovering various
+heavy metals such as Hg and Zn
+
+Relatively more complicated, and needs to be adjusted Simpler pretreatment methods but not effective for Lithium-iron-
+optimized for certain battery chemistries phosphate (LFP) batteries
+
+@ Pollution treatment
+
+Require gas clean-up process to avoid toxic air emission
+
+Require process effluent treatment to avoid water pollution
+
+: Gelvl BrP
+Bii-ccte @Fortum wee <
+
+Be
+
+BRUNP RECYCLING.
+
+GR 5S 2 Me
+
+ACCUREC GanfengLithium
+
+Representative
+enterprises
+
+umicore
+
+Source: Anson Securities, Dongguan Securities, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China.
+
+12
+
+==HEADER PAGE 13==
+Recycle: Prospects of Battery Recycling in Different Chemical Systems
+
+The distinctions in battery chemical structure and properties determine the recycling mode, reuse method, value and market size of end-of-life EV batteries.
+The development of reuse of LFP is restricted to the current conditions, and the future recycling market is expected to be dominated by the direct recycle
+of ternary (NMC) batteries
+
+Billion USD?
+
+/ Comparison of batteries in different chemical systems Projection on the China recycling market size by battery type* /
+
+* The chemical properties of batteries determine their different recycling methods:
+
+LFP batteries reuse
+
+[ LFP batteries | [ Ternary (NMC) batteries | (0) LrP batteries recycle 2.14
+i i NMC batteries recycle 1.94
+| No valuable metals contained, the | Contain nickel, manganese and = y
+
+Recycle ; . . ! . 1.74
+
+value | theoretical recovery value is about | cobalt. The theoretical recovery
+
+1,441 USD/tonne value is about 6,651 USD/tonne
+
+The average cycle life is about
+4,000, and the capacity declines
+
+The average cycle life is estimated
+at 2,000 times or lower 0.88
+
+i
+
+slowly 0.79 :
+
+a ee 0.68 0.78
+
+: More stable, less likely to : At abnormally high temperatures,
+Battery | . ! wae . .
+
+' experience thermal runawayand_—_; the possibility of fire and explosion 0.37
+safety {. . i :
+
+| ignition at high temperatures | is relatively large L]
+
+2021 2022 2023 2024 2025
+
+* LFP batteries are more suitable for reusing due to their relatively low material cost,
+
+good stability and long lifespan
+
+NMC batteries are more suitable for recycling due to their relatively high material
+cost, poor stability and short lifespan.
+
+The development of NMC batteries starts later than LFP, and the recovery rate also lagged. End-of-
+life LFP batteries are more suitable for reuse. However, reuse has not yet achieved technical
+breakthroughs currently, and it is challenging to achieve economies of scale. It is projected that the
+recycling market of NMC batteries will continue to lead in the short and medium term.
+
+Source: CICC, Everbright Securities, Tianfeng Securities, public information, Deloitte analysis
+Remarks: 1. Estimated based on the predicted average metal price of respective year; 2. Converted at the annual average exchange rate of USD to RMB in 2021 (1USD = 6.45RMB)
+© 2022. For information, contact Deloitte China 13
+
+==HEADER PAGE 14==
+Value chain analysis
+of EV battery recycle
+
+==HEADER PAGE 15==
+Development Trend of Li-battery and NEV Industrial Chain
+
+With the transformation of the industry to market-driven development, the lithium battery and NEV industry will further evolve from a chained-form to a
+mesh ecology with deeper cooperation and mutual empowerment, in which each sector of the industry chain shows the trend of extending to battery
+recycling in various forms and different degrees
+
+/ Lithium battery industrial chain extends to battery recycling /
+Enterprises in multiple sectors extend to
+
+battery recycling
+Ee
+* Technology-based extension: Resource
+
+refining enterprises and anode, cathode raw
+Raw Material Anode, Cathode & . .
+a . . material manufacturers have the technical
+Refining & Processing Electrolyte Production eter . .
+similarity in recycling and extraction technology,
+which drives their extension to the recycling.
+¢ Resource-based extension: Battery
+
+enterprises, OEMs and battery banks and other
+power exchange service companies are predicted
+
+to take advantage of resources to expand
+
+downwards into the recycling and establishing a
+Resources tery Recycle & Reus Battery Manufacturing recycling system.
+Exploitation
+
+© Battery recycling enterprises extend to
+other sectors
+
+© Industrial Chain Sector
+* Through dismantling end-of-life batteries,
+—» Industrial Chain Direction recycling enterprises are likely to expand to raw
+> Industrial Chain Future materials, cathode materials manufacturing etc.,
+Expansion Direction forming a closed loop within the industry chain.
+
+Battery Charging & Replacing Facilities OEM & Consumption
+
+Source: public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China.
+
+15
+
+==HEADER PAGE 16==
+EV Battery Recycling Industrial Chain
+
+Lithium battery recycling, which has a substantial development momentum, is taking shape to support a sustainable EV supply chain. Up and downstream
+players in the industry use their advantages to develop vertical cooperation and seek opportunities to gradually extend the industry chain coverage,
+forming a closed-loop industrial chain from battery recycling to battery material reproduction and integration
+
+Battery manufacturing ) Vehicle manufacturing End-of-life battery Evaluation/Screening
+{th i ye SE, ma) ; Go q » ie aia) Ae
+
+, i! 4 Y db Zee | Pre | . =
++e iy te sy 4 [Fr - i ij UN" a? s . |
+
+Key Business Model
+Players Features
+
+Extend from recycling
+
+to both ends of the
+industry Miracle Automation Enginee Golden Ti
+
+Focus on commercial Li-Cycle | Cirba Solutions
+
+recycling solutions to
+
+create economies of .
+Redwood Materials
+
+scale
+
+a
+o
+o
+2
+>
+i
+G
+i
+z
+a
+-
+
+Extend to the whole
+
+industry chain through CATL CATL Brunp Recycling
+self construction/ .
+Siemens sal
+
+Battery
+manufacturers
+
+vehicle manufacturing)
+
+Forming a closed loop
+of the whole industry
+
+chain through self-
+built/industrial TESLA TESLA
+
+alliances
+
+BYD
+
+alliance
+
+Source: company website, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China. 16
+
+==HEADER PAGE 17==
+Business Model: Third-party Recycling
+
+Third-party recycling companies, as the primary recycler of EV batteries, independently establish a recycling service network to complete the process from
+battery recycling to resource utilization
+
+/ Illustration of third-party recycling Business model analysis /
+
+Third-party recycling companies, as the primary recycler of EV
+Model batteries, generally are entrusted by battery and vehicle
+
+Battery components features manufacturers to complete the transportation, recycling and
+
+Battery
+manufacturers
+
+subsequent resource utilization of end-of-life EV batteries
+
+Highly mature and professional recycling processes, which are widely
+used, can realize more efficient recycling of end-of-life EV batteries
+
+Third-party recycler
+(self-built recycling
+
+p The self-built recycling service network vere Challenges on its
+service network) e self-built recycling service network poses severe challenges
+
+high recycling costs, difficulties in transportation and storage, and
+limited material resale channels
+
+Vehicle dealership
+
+Geirvl
+ES GHTECH
+ig KK ES ASE IA KER
+
+@Li-cycte’ umicon> ACCUREC
+
+Vehicle dismantling »> End-of-life battery
+
+enterprises
+
+Customers
+
+End-of-life
+Vehicles
+
+—- Production/Sales chain
+
+Source: CITIC Securities, Everbright Securities, Tianfeng Securities, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China. 17
+
+==HEADER PAGE 18==
+Gell
+
+Third-party Battery Recyclers: GEM (1/2) ie
+
+GEM pays attention to the construction and maintenance of recycling networks and industrial ecology. Meanwhile, the company is committed to building a
+new energy life-cycle value chain and has established an industrial chain advantage in the field of power battery green treatment
+
+/ The pioneer circular enterprise of end-of-life battery comprehensive utilization /
+
+GEM, incorporated in 2001, started with the recycling of nickel-cobalt resources and mobile phone batteries and has gradually expanded to the recycling of waste electrical, electronic equipment, end-of-life vehicles
+and EV batteries. Over the past 20 years, GEM has been committed to the dual-track driven strategic development of “exploiting urban mines + developing new energy materials”.
+
+In order to create a closed-loop value chain for the entire life-cycle of EV batteries, the company
+has tackled many technical challenges in recycling. It is working to ensure the safety of the raw
+material supply system for new energy material recycling, address the urgent need for the supply
+chain of critical new energy raw materials, and realize the recycling and deep processing from
+waste to raw materials for high-end brand products.
+
+Through deepened collaborative development of the industrial chain, the company continues to
+expand its recycling and resale channels and successfully construct EV battery recycling facilities
+and laboratories in South Africa, South Korea, Indonesia, etc., with its partners. It is expected to
+deploy a recycling business in Europe in 2022 to accelerate its global business layout
+
+Stable resource channels ————-_  ———— National recycling network GEM Revenue share by business in 2021
+GEM has reached recycling cooperation with Country-wide integrated recycling networks
+more than 500 OEMs and battery suppliers and the unique “2+N+2” pattern of power business “Recycle + Remanufacturing”
+worldwide: battery recycling businesses
+
+The company builds a collaborative
+recycling industry chain system, and
+upgrades its business from waste recycling
+to new energy material manufacturing.
+The revenue share of new energy
+material manufacturing increased from
+26.5% in 2016 to 71.1% in 2021
+
+Car manufacturers Battery suppliers 2 ——e Two battery recycling centers
+
+S+r> ap
+
+@ ve
+TOYOTA
+
+>< XPENG
+
+Other recycling networks
+N — covering more than 60% of total
+NEV in China
+
+New energy
+materials business
+
+2 Two resource utilization
+and remanufacturing parks
+
+!
+!
+1
+!
+!
+1
+!
+!
+1
+!
+!
+1
+!
+!
+1
+!
+!
+1 .
+1 Urban mines
+!
+1
+!
+!
+1
+!
+!
+1
+!
+!
+1
+!
+!
+1
+!
+!
+1
+!
+
+Source: company website, company annual report, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China. 18
+
+==HEADER PAGE 19==
+Gell
+
+Third-party Battery Recyclers: GEM (2/2) fate
+
+GEM’s battery recycling capacity and business income have rapidly grown in recent years. The company has included “expanding recycling” as one of its
+development strategies. With the advent of the battery retirement tide, GEM will further expand the comprehensive utilization scale of the company’s EV
+battery in the near future
+
+/ Rapidly rising battery recycle and reuse capacity / / One of the future business growth engines /
+Recycle amount ————__— ————— Reuse amount ——————— Battery comprehensive utilization revenue
+Tonnes Tonnes Thousand USD? SN
++61.6%
+8,407 1.1 — M
+
+23,358
+In 2021, the YOY growth of EV
+
+G210%) battery comprehensive
+utilization business ranked
+
+14,451 first in GEM’s comprehensive
+
+4,425 0.6 utilization sector, exceeding
+the growth rate of 54.83% of
+the total revenue
+
+1,054 0.1
+2019 2020 2021 2019 2020 2021 2020 2021
+* GEM’s EV battery recycling and reuse business has shown substantial development momentum, * GEM continues to make technological breakthroughs to improve the recycling
+expecting to recycle 30,000 tonnes of EV batteries and reuse around 2Gwh EolL batteries in 2022. capacity of EV batteries. In 2025, the company’s recycling target will be more
+* It has been announced that GEM has had a total dismantling, processing and recycling capacity of than 20 times the recycling capacity in 2021. With the advent of the battery
+end-of-life is 215,000 tonnes/year, the total planned capacity in the future for dismantling and retirement tide, GEM’s EV battery recycling and reuse business is projected to
+recycling is close to 700,000 tonnes/year, and the total planned capacity for reuse exceeds 11GWh. become one of the main contributors to the company’s future revenue.
+
+Source: company website, company annual report, public information, Deloitte analysis
+Remarks: 1. Converted at the annual average exchange rate of USD to RMB in 2021 (1USD = 6.45RMB)
+© 2022. For information, contact Deloitte China 19
+
+==HEADER PAGE 20==
+Third-party Battery Recyclers: Li-Cycle (1/2) Gri-cycte
+
+Li-Cycle is working to address the increasing demand for lithium-ion battery materials through innovative recycling solutions and upstream-downstream
+collaboration and focus on the transformation and sustainable development of global "green energy"
+
+/ Sound recycling network and innovative and environment-friendly recycling technology promote sustainable, high-quality development /
+
+Li-Cycle, founded in 2016, is a in lithium-ion battery resources recycling leader in North America. At present, its primary business includes recycling Li-batteries and producing battery-grade materials. By adopting
+advanced battery recycling technologies and providing economically-feasible critical battery metals recovery solutions, Li-Cycle offers sustainable products to support the global transition toward electrification
+
+ae KSF 1: Recycling network building around resource channels mae
+
+* Advanced planning: Company’s
+current business growth strategy
+focuses on North America and
+Europe, keeping abreast of the
+increasing demands of leading
+
+ciate KSF 2: Environmental-friendly, innovative, differentiated technology --
+
+Despite the challenges of intensified market competition and increasingly stringent environmental
+regulations, the environmental benefits of Li-Cycle’s proprietary technology can still meet clients’
+requirements for products quality and sustainability, appealing to ESG devoted clients
+
+Li-Cycle North America recycling network
+
+— Environmental benefits of raw materials — — Environmentally sound solutions ——
+
+Environmental benefits comparison for “Low GHG + No PFAS”
+
+existing and potential customers of Celect LION ELECTRIC
+
+global industrial chain ITISHVOLT production of 1 tonne of battery materials? Compared with pyrometallurgy, Li-Cycle’s
+* Deepen cooperation: According to STEL TI _ technology significantly reduces GHG
+
+the geographical distribution of —— ultium=c ergy Solution :
+
+each recycling plant, Li-cycle has mi | ld as Li — (bens) allen tworeali substances
+
+forged key strategic partnerships "ESolid r 2 Envision AES CO, emission Water usage p
+
+across the value chain and P . reduction reduction . .
+
+completed long-term commercial ~ f ‘S) Mae. Environmentally-friendly
+
+a 2 as A .
+
+agreements for in-take and off- x sk rnovation 6 ° Compared with other hydrometallurgy, Li-
+
+take of essential battery materials (_) Spoke in operation 92% 92% Cycle’s hydro approach allows for safe
+
+in each region to further stabilize Am, F Processing without any water and lanati
+
+the rec “in and sales channels t Spoke in advanced development or newly announced NO, emission SO, emission waste, minimal waste effluents production
+
+yee reduction reduction and exhaust emission
+
+!
+!
+1
+!
+!
+1
+!
+!
+1
+!
+!
+1
+!
+!
+1
+!
+!
+1
+74% 97% emissions and avoids the issue of per-
+!
+!
+1
+!
+!
+1
+!
+!
+1
+!
+!
+1
+!
+!
+1
+!
+
+Source: company website, company annual report, public information, Deloitte analysis
+Remarks: 1. Compared with direct extraction and refining of natural resources
+© 2022. For information, contact Deloitte China. 20
+
+==HEADER PAGE 21==
+Third-party Battery Recyclers: Li-Cycle (2/2)
+
+GLi-cycte
+
+Li-Cycle equipped the closed-loop recycling technology from end-of-life batteries to renewable materials and accelerates the improvement of recovery
+
+capacity to achieve vertical integration of resources
+
+/ Segmented business plan to cover full battery recycle process /
+
+Li-Cycle recycles end-of-life batteries to achieve battery full life-cycle coverage through the “Spoke &
+Hub” network, provides customers with sustainable solutions for lithium-ion batteries, and creates the
+path to a closed-loop supply chain to support the secondary supply of key battery materials
+
+Spoke: Flexible battery processing facility
+
+* Recycle and handle the preliminary processing of end-of-
+life batteries through shredding, separation and other
+mechanical processes to produce black mass that creates
+major economic value
+
+* The Spoke is a decentralized and flexible-planning facility
+° that processes batteries close to the supply source
+
+° Hub: Centralized hydrometallurgical processing center
+
+* Recover black mass into battery-grade raw materials
+through hydrometallurgical process for reuse in Li-battery
+production, including lithium, nickel, cobalt and more
+
+* The Hub isa centralized facility for large-scale production
+of specialty materials that achieve economies of scale in
+recycling but with a high initial investment and
+environmental control cost
+
+Type
+Spoke
+Spoke
+Spoke
+Spoke
+Hub
+Spoke
+Spoke
+
+Spoke
+
+Capacity milestones reached for regional recycling
+
+Completion
+
+2019
+2020
+2021
+2022
+2023
+TBD
+TBD
+
+TBD
+
+Location
+Kingston, ON
+Rochester, NY
+
+Gilbert, AZ
+Tuscaloosa, AL
+Rochester, NY
+
+Norway
+Germany
+
+Warren, OH
+
+Status
+
+In operation
+In operation
+In operation
+In construction
+In construction
+Planned
+Planned
+
+Planned
+
+* Recycling capacity: tonnes of Li-battery equivalent per year
+
+Capacity (Tonnes)*
+
+5,000
+5,000
+10,000
+10,000
+90,000
+10,000
+10,000
+
+15,000
+
+* Li-Cycleis actively investing in and building the Spoke and Hub facilities to improve the scale of the battery recycling business. Li-Cycle is expected to have up to 20 Spoke facilities, 3 ternary lithium battery Hub
+facilities and 1 LFP lithium battery Hub facility by 2025. The first Hub facility in Rochester, New York, is projected to have a battery materials processing capacity equivalent to 225,000 EVs every year
+
+Source: company website, company annual report, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China
+
+==HEADER PAGE 22==
+Business Model: Battery Manufacturer as Recycler
+
+Battery manufacturers, as the primary recycler of EV batteries, use their channel advantages to create an industrial closed-loop within the battery life cycle,
+
+from collecting and recycling to remanufacturing
+
+/ Illustration of battery manufacturer recycling
+
+Battery
+components
+
+=
+
+EV battery
+manufacturers
+
+(self-recycling)
+
+Vehicle dealership
+
+Vehicle dismantling
+enterprises
+
+Customers
+
+End-of-life
+Vehicles
+
+Reuse
+enterprises
+
+enterprises
+
+»> End-of-life battery
+
+—- Production/Sales chain
+
+Source: CITIC Securities, Everbright Securities, Tianfeng Securities, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China.
+
+Model
+features
+
+Key
+
+players
+
+Business model analysis
+
+Battery manufacturers, as the primary recycler of EV batteries, have
+arranged the recycling network by establishing subsidiaries, acquiring
+recycling enterprises, industrial cooperation, etc. to form circular
+recycling of EV batteries, realize the cost reduction of recycling, and
+mitigate the bargaining power of upstream raw material suppliers
+
+Diversified recycling and resale channels are critical factors for battery
+manufacturers to effectively control the directional circulation of end-
+of-life batteries and reduce the recycling and reproduction costs of EV
+batteries
+
+Technical restrictions on self-recycling. Due to the dependence of
+crucial recycling technologies on recycling enterprises, the operation
+efficiency of the model is usually low, which further hinders the
+formation of the scale effect
+
+CATL
+PHSB
+
+@ northvolt
+
+Bit mid
+
+GUOKUAN HIGH-TECH
+
+22
+
+==HEADER PAGE 23==
+. CATL
+Battery Manufacturers Recycling: CATL (1/2) Pant
+
+In recent years, CATL has further improved the strategic planning of the company in the lithium battery and new energy industry, give play to the
+advantages of industrial synergy, and prospectively arranged the recycling business to secure the company’s battery materials supply and resources reserve
+
+/ Prospective planning and industrial cooperation to enhance supply chain security /
+
+Contemporary Amperex Technology Co., Limited (CATL) is a global leading provider of innovative new energy technologies. CATL specializes in manufacturing lithium-ion batteries and is committed to providing
+efficient energy storage solutions for international green-energy applications by leveraging its advanced battery technology. Since 2015, the company has made prospective planning in battery recycling and
+regenerating. Over the years, CATL has participated in recycling technology development and investment in the battery recycling industry by building facilities and cooperating with enterprises, aiming to reduce
+dependence on upstream resources, ensure the stability of the supply chain, and achieve cost reduction in production
+
+tm Establishment Explored global markets fm Deepened global business operation
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+
+Established in 2011, as ATL spun off its EV Established a strategic partnership with BASF to CATL signed a tri-party framework agreement with ANTAM and IBI to
+battery operations into the new company CATL expand the European recycling market and promote cooperate on the Indonesia EV battery whole industry chain integration
+the recycling business’s rapid development project, which includes nickel laterites mining and processing, EV
+
+t
+1
+1
+1
+1
+1
+1
+' battery materials, EV battery recycling and remanufacturing
+
+2011 2015 September, 2021 ———————_€) October, 2021 2022 >
+! 1
+| :
+Acquired 52.88% of the shares of Brunp Recycling, and CATL The company invested in developing Brunp integrated battery material industrial park in
+has planned power battery recycling and regenerating in Yichang, Hubei. The park is an intensive and large-scale production base to support end-of-
+advance, creating a closed-loop battery industrial chain with life battery material recycling, covering the whole battery life cycle, integrating “phosphate
+complementary upstream-downstream advantages mine — raw material — precursor — cathode material — battery recycling” and more
+
+Introduction to Brunp Recycling
+
+0
+Run
+
+Guangdong Brunp is one of China’s leading high-tech enterprises in the recycling and treatment of end-of-life lithium batteries and producing high-end battery materials in
+China. Headquartered in Foshan, Guangdong, Brunp Recycling has set up seven production bases domestic and out of China, including Foshan, Changsha, Pingnan, Fuding, $0ahgEER
+Yichang in China, Morowali and Weda Bay in Indonesia BRUNPRECYCLING
+
+Source: company website, company annual report, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China. 23
+
+==HEADER PAGE 24==
+. CATL
+Battery Manufacturers Recycling: CATL (2/2) Pant
+
+The industrial layout of “One core and Two extensions” of Brunp Recycling helps to form the internal regeneration and circulation of crucial battery
+materials within the value chain, resulting in the promotion of the sustainable development of CATL
+
+/ Relying on the Brunp Recycling, forging a one-stop recycling industry for the reuse, recycling and remanufacturing of the EV batteries /
+
+CATL EVGOGO & * Brunp’s “One core and Two extensions” boost CATL’s circular business
+TRAX iF Rw @
+PEA
+
+BRUNP RECYCLING
+
+Battery
+@ swapping © Material business: Manufacturing of ternary precursor and other key materials
+
+End-of-life for CATL battery production
+
+[
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+'
+Battery '
+design batteries [Door carat assess scnsascscscsscscsccscscsccsca cc scs cscs s cscs asec oan
+re The existing resource recycling capacity and key metal recovery rate of Brunp Recycling
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+\
+
+Battery recycling: helps to establish industrial ecological closed-loop
+
+| Extensions | Resource business: Provides CATL with upstream mineral resources and supports
+the security of the supply chain
+
+Battery Battery stand among the top in Asia:
+supply retirement
+
+120,000 tonnes/year 99.3% 90%
+
+Total battery recycling capacity JJ Recovery rate of Ni, Co and Mn Recovery rate of Li
+
+Raw materials Recycle Reuse
+
+* According to the company’s statistics, in the first quarter of 2022, a total of 21,300 tonnes of end-of-life batteries have been recycled and used to produce 18,000 tonnes of battery precursors,
+and the advantages of the internal circulation system will gradually create a marked effect.
+
+* The establishment of Brunp integrated industrial park is conducive to further improve the CATL’s strategic plan in new energy industry, giving full play to the advantages of industrial synergy
+and ensuring the supply of battery materials. It’s estimated that after 2035, CATL will be able to meet a significant part of the demand for raw materials by recycling retired battery materials.
+
+Source: company website, company annual report, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China. 24
+
+==HEADER PAGE 25==
+Business Model: OEM-led Industrial Alliance as Recycler
+
+The industrial alliance model could be an ideal business model and is led mainly by OEMs. By leveraging the distribution service network and recycling
+
+technology of the member enterprises in the industrial chain, the recycling alliance can achieve a cost-effective and scalable recycling business and reduce
+vicious competition in the market. However, this model is still in the initial trial stage of commercial operation, given that various stakeholders are involved
+
+/ Illustration of industrial alliance recycling
+
+Battery
+manufacturers
+
+Recycle and
+Reuse
+enterprises
+
+manufacturers
+
+dealership
+
+Vehicle dismantling > End-of-life battery
+
+enterprises
+
+Customers
+
+End-of-life
+Vehicles
+
+—-> Production/Sales chain
+
+Source: CITIC Securities, Everbright Securities, Tianfeng Securities, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China.
+
+Model
+features
+
+Key
+players
+
+Business model analysis
+
+The industrial chain’s upstream and downstream alliance members
+are the primary recycler of EV batteries. The alliance is the inevitable
+consequence of the Extended Producer Responsibility and the
+industrial collaborative cooperation mode driven by recycling
+economics. OEMs often adopt this mode to build a recycling network
+through alliances to form a closed loop of the industrial chain.
+
+Extensive recycling channels and strong technical expertise. Through
+industrial collaboration, the vicious competition in the market, the cost
+of vehicle production, battery manufacturing and material recycling
+has been effectively reduced, and the overall recycling efficiency and
+mode operation efficiency have been improved
+
+The negative impact of risk sharing is evident in this model. Members
+are bound by each other through industrial alliances. Enterprises need
+
+to bear the potential risks that other members of the battery recycling
+chain may bring, like uneven expertise.
+
+GHTECH re)
+eT KER
+northvolt
+JE Rn, CANA A rT) moh
+
+25
+
+==HEADER PAGE 26==
+--_
+
+ll
+
+Automotive OEMs Recycling: BYD
+
+Relying on the advantages of core battery technology and battery installation scale, BYD has built its own key industrial chain sectors for battery recycling
+to complete the closed loop of the industrial chain
+
+/ BYD recycling model illustration / / BYD core competitive advantages /
+
+Scale of battery recycling
+
+t
+
+i)
+
+;
+
+¢ Relying on the dramatic increase in sales of self-branded NEV, BYD’s EV battery
+
+\ installation is steadily climbing, and its retired battery recycling can reach a certain
+1 scale in the future
+i)
+
+I
+
+I
+
+i)
+
+I
+
+I
+
+i)
+
+Authorized
+
+Customers
+dealers
+
+Sales volume and 432% 10.5GWh Top3
+
+battery installation Year-on-year growth Global ranking of
+of BYD rate of new energy total EV battery
+(2022Q1) passenger vehicle sales installation
+
+Self-owned
+
+recycling sites EV battery installation
+
+(including export)
+
+Vehicle
+dealership
+
+Closed-loop industrial chain
+
+BYD Auto { Recycle i i \
+1 1 1
+. Shandong battery ¢ BYD has created a complete, end-to-end, and closed-loop industry chain within
+= o ! Huizhou BYD ! H reuse center (In H the industrial ecology of “battery manufacturing - vehicle manufacturing - battery
+Blo ! Battery . \ recycling - evaluation and screening - recycling”
+a Battery- construction)
+1
+
+grave aM specialized battery recycling sites and authorized dealers for retired EV batteries
+
+F ials . .
+
+FinDreams i Partnership Partnership (China - For evaluation and screening, BYD’s Baolong factory dismantles and evaluates
+Battery i (GEM) Tower, GEM, retired batteries, and adopts suitable methods for batteries recycling
+
+Itochu)
+
+- For recycling, BYD Huizhou is responsible for recycling cathode materials, and in
+
+I
+I
+!
+I
+I
+!
+I
+I
+!
+1
+!
+- For recycling channels, BYD has a nationwide recycling network of 51 I
+!
+I
+I
+!
+I
+I
+1
+I
+addition, it reached a strategic collaboration with GEM in 2015 on recycling !
+
+Source: CITIC Securities, Everbright Securities, Tianfeng Securities, CPCA, CAICV, GGIl, Deloitte analysis
+
+© 2022. For information, contact Deloitte China. 26
+
+==HEADER PAGE 27==
+Market challenges
+and business implications
+
+==HEADER PAGE 28==
+Challenge-facing EV battery recycling industry
+
+Technical challenges and market mechanism challenges coexist in the recycling industry. Thus, many problems are still to be solved in each sector of the EV
+battery recycling industry chain. The healthy development of the EV battery recycling market is in urgent need of the guidance of macro policies and the
+joint efforts of all individual parties in the industry chain
+
+@ Difficulties in channel construction @ High cost of reintegration and utilization @ Price uncertainty of raw materials
+Establishing a stable recycling channel is one of the recycling Only after disassembly, screening, re-integration, and other processes The price of recycled materials is affected by
+companies’ most crucial success factors. The establishment can the end-of-life batteries that meet the standard be put into reuse. the double influence of the cost of recycling
+problem of the recycling channel significantly exposed due to the In addition, a series of costs such as battery management and logistics end-of-life batteries and the cost generated
+asymmetric information between the upstream enterprises with transportation lead to limited profit margins from the recycling process. The frequent
+battery resources and the downstream recycling companies fluctuation of the price of metal raw materials
+will also affect the attractiveness of recycled
+materials, and the uncertainty of the price
+poses severe challenges to the downstream
+application of recycled materials
+
+Uncertain downstream demand due to security concerns
+Subjected to the application scenarios and the application enterprise’s
+concern about the potential safety hazard of secondary battery
+utilization, the reuse of end-of-life batteries is weaker than expected
+
+Recycling cost challenges
+
+At present, pricing mechanisms for the recycled end-of-life
+batteries are lacking, and the poor transparency causes the new
+batteries materials purchasing prices to drop away from the resale
+prices of recycled materials
+
+Lack of standards
+
+Technical challenges of battery diversity
+
+Source: Deloitte analysis
+
+© 2022. For information, contact Deloitte China.
+
+Types of power batteries are varied, from battery materials to
+internal structures and assembly techniques. The lack of unified
+standards poses challenges to the evaluation of end-of-life batteries
+
+Data source barriers
+
+Third-party recyclers are challenging to obtain the data of end-of-
+life batteries from vehicle or battery manufacturers, which
+increases the difficulty of battery state estimation, remaining useful
+life prediction and safety assessment
+
+The disassembly and recovery technology process directly affect the
+recovery rate of high-value metals. The diversity of batteries will also
+bring technical difficulties. Moreover, the company needs to address
+the energy consumption and the environmental impact of the process
+
+Difficulty to scale up due to unstable recycling channels
+
+The massive investment in capacity construction in the early stage
+requires the companies to reach a specific scale of recycling end-of-life
+batteries to avoid significant profit pressure
+
+==HEADER PAGE 29==
+Impact of upstream lithium battery and NEV industry trends on EV battery recycling
+
+As the upstream industry, the technology and market trend of lithium battery and NEV industry are closely interrelated to the EV battery recycling
+
+Related Trends of the EV battery recycling upstream industry
+
+Impact on EV battery recycling industry
+
+Rising prices of raw >
+materials
+
+The productivity growth of upstream metal resource exploitation is lower than
+that of downstream application industries, and the mismatch between resource
+supply and demand is significant, leading to metal price fluctuations
+
+The critical metals in battery manufacturing can be recycled from end-of-life
+batteries, effectively supplement the shortage of resources, and promote the
+development of the recycling industry from the demand side
+
+Rapid iteration of »>
+battery chemistry .
+
+High nickelization and low cobalt of ternary batteries and Li-battery
+alternatives, which correspondingly reduce the dependence on precious
+elements through material innovation, are global R&D hot topics.
+
+The installation of LFP battery increases rapidly due to its cost and safety
+advantages
+
+The fast innovation of battery technology and the diversity of specifications raise
+the difficulty of battery disassembly and recycling
+
+The cost reduction trend of batteries may bring challenges to the profitability of
+the recycling industry, promote recycling companies to develop more efficient
+recycling technologies and models
+
+Battery pack technologies such as module-free design (CTP) and battery chassis
+integration technology (CTC) improve space utilization and mileage range and
+achieve high efficiency and cost reduction
+
+Groundswell of the opinion of EV and battery pack standardization, but
+standardization itself is proceeding slowly.
+
+Highly integrated and structural batteries have increased the difficulty of
+battery disassembly and technical barriers to recovery. The vehicle companies
+and their partners will take on greater responsibility for recycling
+
+The standardization of battery packs will benefit the automatic disassembly
+process of batteries, promoting the standardization process of battery recycling
+
+Upgrading battery
+pack and vehicle >
+manufacturing .
+technology
+Accelerated battery .
+
+service and ecological
+construction
+
+Battery Bank (BaaS) and other on-demand battery replacement service provide
+centralized full life-cycle operation management such as battery leasing,
+charging, maintenance and swapping
+
+The rise of battery services has led to a more centralized recycling channel,
+making it easy to create a scale effect
+
+Battery banks, charging stations are conducive to strengthening the information
+traceability and management of the battery life cycle, accurately predicting
+battery retirement, improving the battery recycling efficiency and values
+
+Source: public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China
+
+29
+
+==HEADER PAGE 30==
+Business Implications for Battery Recycling Companies
+
+Leading battery recycling companies should carefully consider the following issues from a strategic perspective:
+
+Q * Which sectors of the recycling business should the company invest in? Does the main business involve reuse or recycling?
+Overall strategic * What business model should the company adopt? What are the core advantages and key points to profitability?
+planning * Does the company consider the extension or closed-loop construction along the up and downstream, or specialization in recycling?
+
+(Where to play)
+
+Capabilities development:
+* Channels - How to construct and distribute self-owned recycling networks to ensure adequate resources and stable recycling channels? Through
+
+M&A integration, strategic alliance or exchange agreements?
+* Technology - Which recycling process route to choose? How to improve the recovery rate and reduce recycling costs through technological
+innovation?
+Capabilities * Capacity - How to plan on recycling capacity improvement in the next 3-5 years to achieve scale effect?
+
+development and
+
+Industrial synergy
+(How to win)
+
+Industrial synergy:
+
+¢ Upstream - How to react to the rapid technological change and market trends in the upstream lithium battery and NEV industry? How to cooperate
+with battery manufacturers and OEMs who enjoy channel advantages?
+
+* Downstream - Does the company need to extend to the reuse, regenerating or remanufacturing and develop the capacity of battery raw materials
+production such as precursors? How to compete with metal raw material suppliers such as Li-salt production companies?
+
+© 2022. For information, contact Deloitte China. 30
+
+==HEADER PAGE 31==
+Business Implications for Lithium and Battery Companies
+
+Leading lithium companies and battery manufacturers should carefully consider the following issues from a strategic perspective:
+
+* Does the company consider expanding into recycling business? Based on what background, should the company get involved in battery recycling?
+What is the core business objective?
+
+Q ’ ¢ If entering the recycling field, which industry sectors should the company plan to engage in? How can the company take advantage of the original
+Overall strategic battery business?
+
+planning * What business model should the company adopt? Is it to do independent recycling capability R&D or seek industrial collaborations up and
+(Where to play) downstream based on the original business?
+
+Capabilities development:
+¢ Channel - How does the company leverage its sales network to build a reverse logistics recycling channel and form a closed-loop utilization of end-
+of-life batteries?
+
+* Technology - How to make use of existing battery manufacturing technology for recycling technology transformation? Independent R&D of
+innovative recycling technology or technique patent purchase to improve recycling efficiency?
+
+Capabilities
+
+* Capacity - How to plan on recycling capacity improvement in the next 3-5 years, and realize industrialization to support its original business?
+development and
+
+Industrial synergy Industrial synergy:
+(How to win) * Upstream - How does the company supplement resources through recycling to mitigate the bargaining power against upstream resource suppliers?
+
+* Downstream - Should the company rely on supply or establish cooperative relationships with recycling enterprises? Or vertically integrate the
+recycling enterprises with technological advantages through M&A? How to cooperate with OEMs in recycling closed-loop supply chain construction?
+
+© 2022. For information, contact Deloitte China 31
+
+==HEADER PAGE 32==
+Business Implications for Automotive OEMs
+
+Leading automotive OEMs should carefully consider the following issues from a strategic perspective:
+
+Overall strategic
+planning
+(Where to play)
+
+Capabilities
+development and
+
+Industrial synergy
+(How to win)
+
+© 2022. For information, contact Deloitte China.
+
+Based on the company’s strategic consideration and its capability’s current situation, should the company get involved in battery recycling?
+
+If entering the recycling field, does it involve reuse or recycling? How can the company take advantage of the technology of the original car
+manufacturing business?
+
+Which industry sectors should the company plan to engage in? What is the core business objective? Is it to do independent recycling capability
+R&D or seek industrial collaborations up and downstream based on the original business?
+
+Capabilities development:
+
+Channel - How to improve the utilization of the existing sales network and establish a recycling channel for retired batteries with stable sources
+and guaranteed quality to avoid losing resources to other third-party channels?
+
+Technology - Assess the current status of its own capabilities, including gaps in battery recycling technology capabilities, and its supply of retired
+batteries, and determine the depth of its involvement in battery recycling?
+
+Economic - Based on the cost-effectiveness of possible business models, further decide how to achieve technical capacity building: self-R&D,
+partnership, or M&A?
+
+Industrial synergy:
+
+Upstream - Is it possible that the supply constraints of upstream materials be alleviated through the recycling business? Whether and how do
+OEMs seek cooperation with upstream battery and material companies to obtain technical capabilities?
+
+Downstream - How do OEMs cooperate with downstream recycling companies to supplement the battery recycling network? Is it possible to
+cooperate with energy and power suppliers to expand the reuse scenario when the technology and business model are mature?
+
+32
+
+==HEADER PAGE 33==
+Contact Us
+
+Andy Zhou Steve Cheng Terry Wen Mavis Wang
+Deloitte China Deloitte Consulting China Deloitte Consulting China Deloitte Consulting China
+Automotive Industry Leader Partner Director Assistant Manager
+lingkunzhou@deloitte.com.cn scheng@deloitte.com.cn zwen@deloitte.com.cn maviwang@deloitte.com.cn
+
+Acknowledgments
+
+We would like to take this opportunity to express our heartfelt appreciation to all colleagues of Deloitte Consulting China who supported this study, with special thanks to the
+following colleagues for their significant contributions to this report:
+
+* — Chris Lu, Deloitte Consulting China, Manager
+* Neil Kong, Deloitte Consulting China, Analyst
+
+© 2022. For information, contact Deloitte China. 33
+
+==HEADER PAGE 34==
+Deloitte.
+
+—_,
+
+MAKING AN
+IMPACT THAT
+
+MATTERS
+siree AY
+
+~~
+
+About Deloitte
+
+Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited (“DTTL”), its global network of member firms, and their related entities. DTTL (also referred to as “Deloitte Global”) and
+
+each of its member firms and their affiliated entities are legally separate and independent entities. DTTL does not provide services to clients. Please see www.deloitte.com/about to learn
+more.
+
+Deloitte Asia Pacific Limited is a company limited by guarantee and a member firm of DTTL. Members of Deloitte Asia Pacific Limited and their related entities, each of which are separate
+
+and independent legal entities, provide services from more than 100 cities across the region, including Auckland, Bangkok, Beijing, Hanoi, Hong Kong, Jakarta, Kuala Lumpur, Manila,
+Melbourne, Osaka, Shanghai, Singapore, Sydney, Taipei and Tokyo.
+
+The Deloitte brand entered the China market in 1917 with the opening of an office in Shanghai. Today, Deloitte China delivers a comprehensive range of audit & assurance, consulting,
+financial advisory, risk advisory and tax services to local, multinational and growth enterprise clients in China. Deloitte China has also made—and continues to make—substantial
+contributions to the development of China's accounting standards, taxation system and professional expertise. Deloitte China is a locally incorporated professional services organization,
+owned by its partners in China. To learn more about how Deloitte makes an Impact that Matters in China, please connect with our social media platforms at
+www2.deloitte.com/cn/en/social-media.
+
+This communication is for internal distribution and use only among personnel of Deloitte Touche Tohmatsu Limited, its member firms, and their related entities (collectively, the "Deloitte
+Network"). None of the Deloitte Network shall be responsible for any loss whatsoever sustained by any person who relies on this communication.
+
+© 2022. For information, contact Deloitte China.
+

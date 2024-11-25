@@ -1,0 +1,105 @@
+Third-party Battery Recyclers: Li-Cycle (2/2)
+
+GLi-cycte
+
+Li-Cycle equipped the closed-loop recycling technology from end-of-life batteries to renewable materials and accelerates the improvement of recovery
+
+capacity to achieve vertical integration of resources
+
+/ Segmented business plan to cover full battery recycle process /
+
+Li-Cycle recycles end-of-life batteries to achieve battery full life-cycle coverage through the “Spoke &
+Hub” network, provides customers with sustainable solutions for lithium-ion batteries, and creates the
+path to a closed-loop supply chain to support the secondary supply of key battery materials
+
+Spoke: Flexible battery processing facility
+
+* Recycle and handle the preliminary processing of end-of-
+life batteries through shredding, separation and other
+mechanical processes to produce black mass that creates
+major economic value
+
+* The Spoke is a decentralized and flexible-planning facility
+° that processes batteries close to the supply source
+
+° Hub: Centralized hydrometallurgical processing center
+
+* Recover black mass into battery-grade raw materials
+through hydrometallurgical process for reuse in Li-battery
+production, including lithium, nickel, cobalt and more
+
+* The Hub isa centralized facility for large-scale production
+of specialty materials that achieve economies of scale in
+recycling but with a high initial investment and
+environmental control cost
+
+Type
+Spoke
+Spoke
+Spoke
+Spoke
+Hub
+Spoke
+Spoke
+
+Spoke
+
+Capacity milestones reached for regional recycling
+
+Completion
+
+2019
+2020
+2021
+2022
+2023
+TBD
+TBD
+
+TBD
+
+Location
+Kingston, ON
+Rochester, NY
+
+Gilbert, AZ
+Tuscaloosa, AL
+Rochester, NY
+
+Norway
+Germany
+
+Warren, OH
+
+Status
+
+In operation
+In operation
+In operation
+In construction
+In construction
+Planned
+Planned
+
+Planned
+
+* Recycling capacity: tonnes of Li-battery equivalent per year
+
+Capacity (Tonnes)*
+
+5,000
+5,000
+10,000
+10,000
+90,000
+10,000
+10,000
+
+15,000
+
+* Li-Cycleis actively investing in and building the Spoke and Hub facilities to improve the scale of the battery recycling business. Li-Cycle is expected to have up to 20 Spoke facilities, 3 ternary lithium battery Hub
+facilities and 1 LFP lithium battery Hub facility by 2025. The first Hub facility in Rochester, New York, is projected to have a battery materials processing capacity equivalent to 225,000 EVs every year
+
+Source: company website, company annual report, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China

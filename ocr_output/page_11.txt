@@ -1,0 +1,46 @@
+Recycle: Process Flow of EV Battery Recycle
+
+The main challenge of power battery dismantling and recycling lies in the instability of front-end battery recycling channels that make it difficult to scale up
+the production of back-end battery grade raw material refining
+
+Pretreatment Mechanical Process Battery-grade Materials Extraction & Refining Process
+
+ath
+at .
+
+vale
+
+End-of-life battery pack
+
+Pyro-metallurgy
+A
+1
+i.
+ischarging & %
+isassembly re;
+
+| Dismantling, ; ai»
+u
+
+shredding & sorting
+
+Black mass
+(incl. Li, Ni, Cu, Mn, etc.)
+Used cell
+
+—» Typical recycling process oy Plastics, Cu/Al foils etc.
+
+&
+
+--- + Optional process
+
+GHD Recycling product Used electrolyte Electrolyte recovery) —————_________——_ > El
+
+The instability and high cost due to the highly-fragmented battery The mechanical process and the metal refining process after the pretreatment of the battery pack have been relatively mature, can
+recycling channels, and the difficulties of pretreatment due to wide realize the effective conversion of the end-of-life EV batteries to recyclable high-purity raw materials; in the situation of sharply-rising
+range of battery pack specifications are the two main difficulties in the lithium metal raw material prices, large-scale production, stable supply of end-of-life batteries and client relations can realize
+disassembly and recycling process considerable economic returns
+
+Source: public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China. 11

@@ -1,0 +1,61 @@
+Recycle: Prospects of Battery Recycling in Different Chemical Systems
+
+The distinctions in battery chemical structure and properties determine the recycling mode, reuse method, value and market size of end-of-life EV batteries.
+The development of reuse of LFP is restricted to the current conditions, and the future recycling market is expected to be dominated by the direct recycle
+of ternary (NMC) batteries
+
+Billion USD?
+
+/ Comparison of batteries in different chemical systems Projection on the China recycling market size by battery type* /
+
+* The chemical properties of batteries determine their different recycling methods:
+
+LFP batteries reuse
+
+[ LFP batteries | [ Ternary (NMC) batteries | (0) LrP batteries recycle 2.14
+i i NMC batteries recycle 1.94
+| No valuable metals contained, the | Contain nickel, manganese and = y
+
+Recycle ; . . ! . 1.74
+
+value | theoretical recovery value is about | cobalt. The theoretical recovery
+
+1,441 USD/tonne value is about 6,651 USD/tonne
+
+The average cycle life is about
+4,000, and the capacity declines
+
+The average cycle life is estimated
+at 2,000 times or lower 0.88
+
+i
+
+slowly 0.79 :
+
+a ee 0.68 0.78
+
+: More stable, less likely to : At abnormally high temperatures,
+Battery | . ! wae . .
+
+' experience thermal runawayand_—_; the possibility of fire and explosion 0.37
+safety {. . i :
+
+| ignition at high temperatures | is relatively large L]
+
+2021 2022 2023 2024 2025
+
+* LFP batteries are more suitable for reusing due to their relatively low material cost,
+
+good stability and long lifespan
+
+NMC batteries are more suitable for recycling due to their relatively high material
+cost, poor stability and short lifespan.
+
+The development of NMC batteries starts later than LFP, and the recovery rate also lagged. End-of-
+life LFP batteries are more suitable for reuse. However, reuse has not yet achieved technical
+breakthroughs currently, and it is challenging to achieve economies of scale. It is projected that the
+recycling market of NMC batteries will continue to lead in the short and medium term.
+
+Source: CICC, Everbright Securities, Tianfeng Securities, public information, Deloitte analysis
+Remarks: 1. Estimated based on the predicted average metal price of respective year; 2. Converted at the annual average exchange rate of USD to RMB in 2021 (1USD = 6.45RMB)
+© 2022. For information, contact Deloitte China 13

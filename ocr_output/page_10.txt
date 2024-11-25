@@ -1,0 +1,114 @@
+Reuse: Development Limitation Factors
+
+The reuse industry has significant development limitations and bottlenecks at the current stage. The downstream application development is expected to
+be slow before the policy system is improved and the industry standard is established
+
+————@ Policy Factor
+
+the initial stage of establishment, and it takes time to improve the
+national regulatory system and local implementation
+
+the policy intends to promote reuse, it also emphasizes the
+importance of strict management of the safety of EV battery reuse,
+
+2022.02
+Accelerating the Promotion of Comprehensive Utilization of Industrial
+Resources
+
+Requirements to improve the recycling system and management system of
+end-of-life power batteries, strengthen traceability management within the
+whole life cycle of battery, promote the safe reuse application of end-of-life
+power batteries in the field of power backup, charging and replacement
+
+2021.09
+
+The Management Standards for New Energy Storage Projects (Provisional)
+
+management and traceability systems and obtain the safety assessment
+
+* The reuse industry management system still needs to be improved:
+The policy management system for the reuse of EV batteries is still in
+
+* Policy guidance maintains a moderately positive attitude: Although
+
+and is especially cautious towards reuse in energy storage scenarios.
+
+Require newly-built energy storage projects to establish a battery consistency
+
+reports issued by corresponding qualified organization for reuse of batteries
+
+Market Factor
+
+Demand side - uncertain potential:
+
+Low acceptance in the downstream market: Due to unclear standards
+and immature regulatory system, frequent accidents of battery reused
+for energy storage have led to low market acceptance. Users are
+concerned about the safety and consistency of reused batteries
+Impact of potential alternative products: the rise of sodium-ion
+batteries and fuel cells and other technologies may replace and
+squeeze the market of LFP batteries for secondary use
+
+Supply side - “bad money drives out good”:
+
+Long-standing market confusion: In the absence of effective
+regulation, many non-compliant small workshops have long been
+entrenched in the reuse market, and it is difficult for enterprises with
+high investments to profit and survive in the vicious competition
+
+Collection
+No hazardous waste Low
+management qualification;
+oe - cost
+No invoicing required
+Small
+workshops Secu
+No inspection/environmental High
+treatment; a5
+efficiency
+
+Low production line input
+
+Key technologies to be broken through, industry standards to be
+established: The battery life-cycle traceability management and
+industry-standard system are to be established, and technical
+problems still exist in several sectors of the reuse technology process
+
+Evaluation and sorting - Battery specifications are complex, and life
+evaluation is difficult
+
+Detection and screening - Lack of battery use records, complicated
+detecting technology
+
+Restructuring - High technical barriers to battery consistency
+management
+
+Product certification - For the formation of industry standards,
+product certification is difficult
+
+Evaluation &
+Sorting
+Restructuring
+
+Battery reuse process
+
+Collection Disassembly
+
+Detection &
+Screening
+
+Certification
+
+CC) Key technical difficulties sectors
+
+@& Technology Factor—————_—_
+
+The current market situation: the current commercialization cases of EV battery reuse are few. Most of the projects are pilot programs, with only a few regular enterprises with qualifications participating,
+such as GEM, China Tower, etc.; the current reuse market is not yet standardized and in chaos. Market confusion caused by non-compliant small workshops forces the regular enterprises into a dilemma,
+which makes the market less attractive to enterprises that have not entered, and the market is difficult to scale up in the short term
+
+Source: government website, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China
+
+10

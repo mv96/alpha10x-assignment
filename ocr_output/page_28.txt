@@ -1,0 +1,58 @@
+Challenge-facing EV battery recycling industry
+
+Technical challenges and market mechanism challenges coexist in the recycling industry. Thus, many problems are still to be solved in each sector of the EV
+battery recycling industry chain. The healthy development of the EV battery recycling market is in urgent need of the guidance of macro policies and the
+joint efforts of all individual parties in the industry chain
+
+@ Difficulties in channel construction @ High cost of reintegration and utilization @ Price uncertainty of raw materials
+Establishing a stable recycling channel is one of the recycling Only after disassembly, screening, re-integration, and other processes The price of recycled materials is affected by
+companies’ most crucial success factors. The establishment can the end-of-life batteries that meet the standard be put into reuse. the double influence of the cost of recycling
+problem of the recycling channel significantly exposed due to the In addition, a series of costs such as battery management and logistics end-of-life batteries and the cost generated
+asymmetric information between the upstream enterprises with transportation lead to limited profit margins from the recycling process. The frequent
+battery resources and the downstream recycling companies fluctuation of the price of metal raw materials
+will also affect the attractiveness of recycled
+materials, and the uncertainty of the price
+poses severe challenges to the downstream
+application of recycled materials
+
+Uncertain downstream demand due to security concerns
+Subjected to the application scenarios and the application enterprise’s
+concern about the potential safety hazard of secondary battery
+utilization, the reuse of end-of-life batteries is weaker than expected
+
+Recycling cost challenges
+
+At present, pricing mechanisms for the recycled end-of-life
+batteries are lacking, and the poor transparency causes the new
+batteries materials purchasing prices to drop away from the resale
+prices of recycled materials
+
+Lack of standards
+
+Technical challenges of battery diversity
+
+Source: Deloitte analysis
+
+© 2022. For information, contact Deloitte China.
+
+Types of power batteries are varied, from battery materials to
+internal structures and assembly techniques. The lack of unified
+standards poses challenges to the evaluation of end-of-life batteries
+
+Data source barriers
+
+Third-party recyclers are challenging to obtain the data of end-of-
+life batteries from vehicle or battery manufacturers, which
+increases the difficulty of battery state estimation, remaining useful
+life prediction and safety assessment
+
+The disassembly and recovery technology process directly affect the
+recovery rate of high-value metals. The diversity of batteries will also
+bring technical difficulties. Moreover, the company needs to address
+the energy consumption and the environmental impact of the process
+
+Difficulty to scale up due to unstable recycling channels
+
+The massive investment in capacity construction in the early stage
+requires the companies to reach a specific scale of recycling end-of-life
+batteries to avoid significant profit pressure

@@ -1,0 +1,53 @@
+Recycling Methods of EV Battery
+
+Reuse and direct recycle are the most generally acceptable and environmentally friendly methods of batteries disposal. Large-scale applications of EV
+battery reuse is challenging, and EV battery recycling might be dominated by direct recycle in the medium and long term
+
+/ Reuse: utilization of the residual capacity of battery / / Recycle: recovery of metal materials and other resources /
+Anode materials Cathode materials
+Reusable Reuse | Reuse application | Graphite, silicon- Lithium, cobalt, nickel,
+
+doth
+pack based materials pe manganese and other
+metal oxides, recycled
+R bl by direct method and
+nodk I . extractive metallurgy
+module
+—~“— re les
+
+n
+mo}
+°
+$
+o
+£
+Lets)
+£
+=
+>
+[°)
+oO
+cc
+
+End-of-life battery
+
+Reusable Other materials Electrol
+cell Q vw | Metal shell, electrode material, End-of-life vt
+recycled by dismantling, batte Recycled by
+shredding and sorting extracting methods
++ Increase value: optimize the utilization of batteries and maximize the residual value + High recovery rate: Mature in technology, thus the resource recovery rate is high
++ Cost reduction: reduce the cost of energy storage, low-speed electric vehicles and + Simple process: The process is more straightforward than reuse, and there is no need
+other related industries, and promote the development of the circular economy for screening and safety assessment
++ Reduce pollution: effectively reduce the pollution of waste lithium-ion batteries and + Complementary techniques: a combined approach can be applied to improve the
+reduce waste of resources economic benefits of recycling and solve the problem of energy over-consumption
+— Applicable limitations: not suitable for ternary (NMC) lithium battery, difficulty to — Cost issues: The pyro has a large investment and high energy consumption in the early
+maintain economies of scale subject to many qualifications stage, while the hydro is relative time-consuming
+— Inefficiency: The evaluation process of batteries is time-consuming and inefficient — Environmental pollution: Both pyro and hydro cause severe environmental pollution
+— Potential safety risks: The internal safety hazards of retired batteries are highly easily, and the requirements for pollution treatment are high
+concealed, which affects the remaining life and safety of the battery pack — Uncertainty: Emerging techniques such as biological processes and supercritical CO,
+
+extraction are still in startup
+
+Source: CAAM, Anson Securities, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China.

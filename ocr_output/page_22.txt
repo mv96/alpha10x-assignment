@@ -1,0 +1,76 @@
+Business Model: Battery Manufacturer as Recycler
+
+Battery manufacturers, as the primary recycler of EV batteries, use their channel advantages to create an industrial closed-loop within the battery life cycle,
+
+from collecting and recycling to remanufacturing
+
+/ Illustration of battery manufacturer recycling
+
+Battery
+components
+
+=
+
+EV battery
+manufacturers
+
+(self-recycling)
+
+Vehicle dealership
+
+Vehicle dismantling
+enterprises
+
+Customers
+
+End-of-life
+Vehicles
+
+Reuse
+enterprises
+
+enterprises
+
+»> End-of-life battery
+
+—- Production/Sales chain
+
+Source: CITIC Securities, Everbright Securities, Tianfeng Securities, public information, Deloitte analysis
+
+© 2022. For information, contact Deloitte China.
+
+Model
+features
+
+Key
+
+players
+
+Business model analysis
+
+Battery manufacturers, as the primary recycler of EV batteries, have
+arranged the recycling network by establishing subsidiaries, acquiring
+recycling enterprises, industrial cooperation, etc. to form circular
+recycling of EV batteries, realize the cost reduction of recycling, and
+mitigate the bargaining power of upstream raw material suppliers
+
+Diversified recycling and resale channels are critical factors for battery
+manufacturers to effectively control the directional circulation of end-
+of-life batteries and reduce the recycling and reproduction costs of EV
+batteries
+
+Technical restrictions on self-recycling. Due to the dependence of
+crucial recycling technologies on recycling enterprises, the operation
+efficiency of the model is usually low, which further hinders the
+formation of the scale effect
+
+CATL
+PHSB
+
+@ northvolt
+
+Bit mid
+
+GUOKUAN HIGH-TECH
+
+22
