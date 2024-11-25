@@ -21,15 +21,22 @@ Welcome to the **PDF Question Answering Pipeline**! 🚀 This project provides a
 
 ## 📊 Results Summary
 
-| Model Name                 | ROUGE-L Score | BERTScore F1 | Inference Time (s) | Comments                           |
-| -------------------------- | ------------- | ------------ | ------------------ | ---------------------------------- |
-| Contextual LLM Evaluator   | 0.85          | 0.90         | 1.23               | High accuracy                      |
-| LayoutLMv3 Evaluator       | 0.80          | 0.88         | 1.45               | Good for layout-based tasks        |
-| Document Evaluator (UDOP)  | 0.82          | 0.87         | 1.30               | Effective for structured documents |
-| Document Evaluator (Donut) | 0.78          | 0.85         | 1.50               | Works well with images             |
-| Short Text Model Evaluator | 0.75          | 0.80         | 1.10               | Suitable for short queries         |
+| Model Name                                           | Inference Time (s) | BERTScore F1 (%) | ROUGE-L (%) | Model Size (B/M) |
+| ---------------------------------------------------- | ------------------ | ---------------- | ----------- | ---------------- |
+| mistral/7b                                           | 16.94              | 57.58            | 18          | 7 B              |
+| llama/3.2-1b                                         | 16.26              | 53.06            | 13.7        | 1.3 B            |
+| llama/3.2-11b vision                                 | 126.52             | 43.32            | 11.32       | 11 B             |
+| Layoutlmv3                                           | 68.0264            | 33.61            | 0           | 0.125 B          |
+| LLAVA                                                | N/A                | N/A              | N/A         | N/A              |
+| BAKLLAVA                                             | N/A                | N/A              | N/A         | N/A              |
+| naver-clova-ix/donut-base-finetuned-docvqa           | 326.98             | 44.36            | 18.52       | 200.42 M         |
+| microsoft/udop-large                                 | 132.4660           | 65.76            | 37.21       | 741.65 M         |
+| twmkn9/distilbert-base-uncased-squad2                | 3.7807             | 30.15            | 0.00        | 66.36 M          |
+| deepset/bert-large-uncased-whole-word-masking-squad2 | 33.6416            | 35.42            | 6.25        | 334.09 M         |
+| deepset/roberta-base-squad2                          | 10.9366            | 31.50            | 0.00        | 124.06 M         |
+| allenai/longformer-base-4096                         | 32.2392            | 32.28            | 6.06        | 148.07 M         |
 
-_Note: The scores and times are illustrative. Please replace them with actual results from your evaluations._
+_Note: The scores and times are emperical and based on experiments performed on my M1 machine, please run them on your machine to get an accurate estimate on your hardware._
 
 ## 📦 Installation
 
