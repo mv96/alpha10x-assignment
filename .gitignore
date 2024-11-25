@@ -16,3 +16,6 @@
 
 # Track PDF files
 !*.pdf
+
+# Ignore files under ocr_output
+ocr_output/*
