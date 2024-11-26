@@ -177,7 +177,7 @@ Please provide a concise and accurate answer to the question based on the provid
                         relevance_score = self.calculate_relevance(
                             context, item["input"]
                         )
-                        relevance_scores.append(relevance_score)
+                        
 
                         # Only proceed if the relevance score is above a certain threshold
                         if relevance_score > 0.5:  # Adjust threshold as needed
@@ -193,6 +193,7 @@ Please provide a concise and accurate answer to the question based on the provid
                             )
 
                             if prediction:
+                                relevance_scores.append(relevance_score)
                                 predictions.append(prediction)
                                 references.append(item["reference"])
                                 inference_times.append(inference_time)
@@ -288,37 +289,43 @@ Please provide a concise and accurate answer to the question based on the provid
         else:
             print("Parameter Count: Not Available")
 
-        total_inference_time = 0  # Initialize total inference time
-
         try:
             # Get predictions with timing
-            (
-                predictions,
-                references,
-                inference_times,
-                relevance_scores,
-            ) = self.get_model_predictions(model_name, test_data)
+            predictions, references, inference_times, relevance_scores = self.get_model_predictions(model_name, test_data)
 
-            if not predictions or not references:
-                print(f"No predictions generated for {model_name}")
+            # Debug prints
+            print(f"Number of predictions: {len(predictions)}")
+            print(f"Number of references: {len(references)}")
+            print(f"Number of relevance scores: {len(relevance_scores)}")
+
+            # Check if we have any valid predictions
+            if not predictions or not references or not relevance_scores:
+                print(f"No valid predictions generated for {model_name}")
                 return None
 
+            # Ensure all lists have the same length
+            # if len(predictions) != len(references) or len(predictions) != len(relevance_scores):
+            #     print(f"Mismatched lengths: predictions={len(predictions)}, references={len(references)}, relevance_scores={len(relevance_scores)}")
+            #     return None
+
             # Find the best relevance score and corresponding prediction
-            best_index = np.argmax(relevance_scores)
-            best_prediction = predictions[best_index]
-            best_reference = references[best_index]
-            best_relevance_score = relevance_scores[best_index]
+            if len(relevance_scores) > 0:
+                best_index = int(np.argmax(relevance_scores))
+                best_prediction = predictions[best_index]
+                best_reference = references[best_index]
+                best_relevance_score = relevance_scores[best_index]
+            else:
+                print(f"No relevance scores available for {model_name}")
+                return None
 
             # Compute ROUGE-L score on the best prediction only
             rouge_scores_best = self.rouge.compute(
-                predictions=[best_prediction], references=[best_reference]
+                predictions=[best_prediction],
+                references=[best_reference]
             )
-
-            # Check if rouge_scores_best is a float or a dict
-            if isinstance(rouge_scores_best, dict):
-                rouge_l_best = rouge_scores_best.get("rougeL", {}).get("fmeasure", 0.0)
-            else:
-                rouge_l_best = rouge_scores_best  # Assuming it's a single score
+            
+            # Access ROUGE-L score with error handling
+            rouge_l_best = rouge_scores_best.get('rougeL', 0.0)
 
             # Calculate BERTScore for the best prediction
             bert_scores_best = self.bert_score.compute(
@@ -329,7 +336,7 @@ Please provide a concise and accurate answer to the question based on the provid
             avg_bert_f1_best = float(np.mean(bert_scores_best["f1"]))
 
             # Calculate average inference time
-            avg_inference_time = sum(inference_times) / len(inference_times)
+            avg_inference_time = sum(inference_times) / len(inference_times) if inference_times else 0
 
             # Save detailed results
             results_dir = "evaluation_results"
@@ -350,27 +357,32 @@ Please provide a concise and accurate answer to the question based on the provid
                 "inference_times": {
                     "individual": inference_times,
                     "average": avg_inference_time,
-                    "min": min(inference_times),
-                    "max": max(inference_times),
+                    "min": min(inference_times) if inference_times else 0,
+                    "max": max(inference_times) if inference_times else 0,
                 },
             }
 
+            # Save results to file
             safe_model_name = model_name.replace(":", "_").replace("/", "_")
             result_file = f"{results_dir}/{safe_model_name}_{timestamp}_results.json"
             with open(result_file, "w") as f:
                 json.dump(detailed_results, f, indent=4)
 
+            # Print results
             print(f"\nBest Answer:")
-            print(f"Best answer was found on page {best_index + 1}: {best_prediction}")
-            print(f"BERTScore for best answer: {avg_bert_f1_best:.4f}")
-            print(f"ROUGE-L for best answer: {rouge_l_best:.4f}")
+            print(f"Best prediction: {best_prediction}")
+            print(f"Reference: {best_reference}")
+            print(f"Relevance score: {best_relevance_score:.4f}")
+            print(f"BERTScore: {avg_bert_f1_best:.4f}")
+            print(f"ROUGE-L: {rouge_l_best:.4f}")
+            print(f"Average inference time: {avg_inference_time:.4f} seconds")
+            print(f"\nDetailed results saved to: {result_file}")
 
             return detailed_results
 
         except Exception as e:
             print(f"Error evaluating {model_name}: {e}")
             import traceback
-
             print(traceback.format_exc())
             return None
 
@@ -408,7 +420,7 @@ def main():
 
     # Use the actual available models
     models = [
-        "llava",  # multimodal
+        "llama3.2-vision",  # multimodal
     ]
 
     # Store results with timestamp
