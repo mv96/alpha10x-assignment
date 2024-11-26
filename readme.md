@@ -148,6 +148,8 @@ pdf-processing-pipeline/
 
 ## 📝 License
 
+Copyright © 2023 Shrey Mishra. All rights reserved.
+
 This project is licensed under the following terms:
 
 - You are allowed to use this code **solely for academic purposes**, specifically for **assignment evaluations**.
