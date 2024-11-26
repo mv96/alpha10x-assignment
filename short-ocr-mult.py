@@ -10,6 +10,7 @@ from pathlib import Path
 from PIL import Image
 import io
 from natsort import natsorted
+from sentence_transformers import SentenceTransformer, util
 
 
 class ContextualLLMEvaluator:
@@ -17,8 +18,10 @@ class ContextualLLMEvaluator:
         self.rouge = evaluate.load("rouge")
         self.bert_score = evaluate.load("bertscore")
         self.ollama_api = "http://localhost:11434/api/generate"
+        self.model = SentenceTransformer(
+            "all-MiniLM-L6-v2"
+        )  # Load a pre-trained model for embeddings
 
-        # Removed global context loading
         print("Context will be loaded per image.")
 
     def encode_image_to_base64(self, image_path):
@@ -50,7 +53,7 @@ class ContextualLLMEvaluator:
             "model": model_name,
             "prompt": prompt,
             "stream": False,
-            "temperature": 0.1,
+            "temperature": 0,
         }
 
         try:
@@ -85,25 +88,16 @@ class ContextualLLMEvaluator:
             return None, 0
 
     def get_model_response_with_image(self, model_name, prompt, image_path):
-        """Get response from Ollama API for image input with relevance and confidence scoring"""
+        """Get response from Ollama API for image input."""
         img_base64 = self.encode_image_to_base64(image_path)
         if not img_base64:
-            return None, 0, 0, 0
+            return None, 0
 
-        # Set improved prompt as per user instructions
         improved_prompt = f"""
 {prompt}\n
-Analyze the provided text and image to evaluate their relevance and confidence for answering the question.
-Your response must include:
-1. A relevance score (0 to 1): Assess how closely the text and image address the question, being strict in awarding high scores. Only assign a high score if the alignment is exceptionally clear and strong. Assign a low score if the image and text do not provide specific information about the question asked.
-2. A confidence score (0 to 1): Indicate your confidence in the accuracy of the answer, being strict in awarding high scores. Only assign a high score if the answer is fully supported by the data provided.
-3. The final answer to the question (without any commentary on the scores).
-
-Use the following format for your response:
-Relevance score: [score]
-Confidence score: [score]
-Answer: [your answer]
+Please provide a concise and accurate answer to the question based on the provided OCR text and image.
 """
+
         data = {
             "model": model_name,
             "prompt": improved_prompt,
@@ -120,61 +114,38 @@ Answer: [your answer]
             inference_time = end_time - start_time
 
             response_json = response.json()
+            # print(f"Model response: {response_json}")  # Debugging line
+
             if "response" in response_json:
                 response_text = response_json["response"].strip()
+                return (
+                    response_text,
+                    inference_time,
+                )  # Return only prediction and inference time
 
-                # Remove any triple backticks if present
-                response_text = response_text.replace("```", "").strip()
-
-                # Extract relevance score, confidence score, and answer
-                try:
-                    lines = response_text.split("\n")
-                    # Ensure there are at least three lines
-                    if len(lines) < 3:
-                        raise ValueError("Incomplete response from model.")
-
-                    relevance_line = lines[0]
-                    confidence_line = lines[1]
-                    answer_lines = lines[2:]
-
-                    relevance_score = float(
-                        relevance_line.replace("Relevance score:", "").strip()
-                    )
-                    confidence_score = float(
-                        confidence_line.replace("Confidence score:", "").strip()
-                    )
-                    # Combine all answer lines into a single answer
-                    answer = " ".join(
-                        [
-                            (
-                                line.replace("Answer:", "").strip()
-                                if "Answer:" in line
-                                else line.strip()
-                            )
-                            for line in answer_lines
-                        ]
-                    )
-
-                    return answer, inference_time, relevance_score, confidence_score
-                except Exception as parse_e:
-                    print(
-                        f"Error parsing scores from response: {response_text} | {parse_e}"
-                    )
-                    return response_text, inference_time, 0, 0
             else:
                 print(f"Unexpected response format: {response_json}")
-                return None, inference_time, 0, 0
+                return None, inference_time
 
         except Exception as e:
             print(f"Error getting model response for image: {e}")
-            return None, 0, 0, 0
+            return None, 0
+
+    def calculate_relevance(self, ocr_text, question):
+        """Calculate relevance score based on OCR text and question using cosine similarity."""
+        # Encode the texts to get their embeddings
+        embeddings = self.model.encode([ocr_text, question], convert_to_tensor=True)
+
+        # Compute cosine similarity
+        similarity = util.pytorch_cos_sim(embeddings[0], embeddings[1])
+
+        return similarity.item()  # Return the similarity score as a float
 
     def get_model_predictions(self, model_name, test_data):
         predictions = []
         references = []
         inference_times = []
-        relevance_scores = []
-        confidence_scores = []
+        relevance_scores = []  # Store relevance scores
 
         # Get list of images from output_images directory and sort them in natural order
         image_dir = Path("output_images")
@@ -202,33 +173,40 @@ Answer: [your answer]
                             f"\nProcessing question for {model_name}: {item['input']}"
                         )
 
-                        # Create prompt with context and question
-                        prompt = f"""OCR scanned text: {context} 
-Question: {item['input']}"""
-
-                        # Get prediction using vision model
-                        prediction, inference_time, relevance, confidence = (
-                            self.get_model_response_with_image(
-                                model_name, prompt, image_path
-                            )
+                        # Calculate relevance score for the current page
+                        relevance_score = self.calculate_relevance(
+                            context, item["input"]
                         )
+                        relevance_scores.append(relevance_score)
 
-                        if prediction:
-                            predictions.append(prediction)
-                            references.append(item["reference"])
-                            inference_times.append(inference_time)
-                            relevance_scores.append(relevance)
-                            confidence_scores.append(confidence)
+                        # Only proceed if the relevance score is above a certain threshold
+                        if relevance_score > 0.5:  # Adjust threshold as needed
+                            # Create prompt with context and question
+                            prompt = f"""OCR scanned text: {context} 
+                                        Question: {item['input']}"""
 
-                            print(f"\nImage: {image_path}")
-                            print(f"Prediction: {prediction}")
-                            print(f"Relevance Score: {relevance}")
-                            print(f"Confidence Score: {confidence}")
-                            print(f"Inference Time: {inference_time:.4f} seconds")
-                        else:
-                            print(
-                                f"No valid response received from model for image {image_path}"
+                            # Get prediction using vision model
+                            prediction, inference_time = (
+                                self.get_model_response_with_image(
+                                    model_name, prompt, image_path
+                                )
                             )
+
+                            if prediction:
+                                predictions.append(prediction)
+                                references.append(item["reference"])
+                                inference_times.append(inference_time)
+
+                                print(f"\nImage: {image_path}")
+                                print(f"Prediction: {prediction}")
+                                print(f"Inference Time: {inference_time:.4f} seconds")
+                                print(
+                                    f"Relevance Score: {relevance_score:.4f}"
+                                )  # Print relevance score
+                            else:
+                                print(
+                                    f"No valid response received from model for image {image_path}. Check model availability."
+                                )
 
                     except Exception as e:
                         print(f"Error processing question: {e}")
@@ -248,8 +226,7 @@ Question: {item['input']}"""
             predictions,
             references,
             inference_times,
-            relevance_scores,
-            confidence_scores,
+            relevance_scores,  # Return relevance scores
         )
 
     def compute_metrics(self, predictions, references):
@@ -320,139 +297,75 @@ Question: {item['input']}"""
                 references,
                 inference_times,
                 relevance_scores,
-                confidence_scores,
             ) = self.get_model_predictions(model_name, test_data)
 
             if not predictions or not references:
                 print(f"No predictions generated for {model_name}")
                 return None
 
-            # Combine all metrics for sorting
-            combined_results = list(
-                zip(
-                    predictions,
-                    references,
-                    inference_times,
-                    relevance_scores,
-                    confidence_scores,
-                )
-            )
-
-            # Sort based on Relevance Score (descending) and then Confidence Score (descending)
-            combined_results.sort(key=lambda x: (x[3], x[4]), reverse=True)
-
-            # Unzip the sorted results
-            (
-                sorted_predictions,
-                sorted_references,
-                sorted_inference_times,
-                sorted_relevance_scores,
-                sorted_confidence_scores,
-            ) = zip(*combined_results)
-
-            # Compute BERT F1 scores
-            bert_metrics = self.compute_metrics(sorted_predictions, sorted_references)
+            # Find the best relevance score and corresponding prediction
+            best_index = np.argmax(relevance_scores)
+            best_prediction = predictions[best_index]
+            best_reference = references[best_index]
+            best_relevance_score = relevance_scores[best_index]
 
             # Compute ROUGE-L score on the best prediction only
-            best_prediction = sorted_predictions[0]
-            best_reference = sorted_references[0]
             rouge_scores_best = self.rouge.compute(
                 predictions=[best_prediction], references=[best_reference]
             )
-            rouge_l_best = rouge_scores_best.get("rougeL", {}).get("fmeasure", 0.0)
 
-            if bert_metrics:
-                # Calculate average inference time
-                avg_inference_time = sum(sorted_inference_times) / len(
-                    sorted_inference_times
-                )
+            # Check if rouge_scores_best is a float or a dict
+            if isinstance(rouge_scores_best, dict):
+                rouge_l_best = rouge_scores_best.get("rougeL", {}).get("fmeasure", 0.0)
+            else:
+                rouge_l_best = rouge_scores_best  # Assuming it's a single score
 
-                # Calculate total inference time
-                total_inference_time = sum(sorted_inference_times)
+            # Calculate BERTScore for the best prediction
+            bert_scores_best = self.bert_score.compute(
+                predictions=[best_prediction],
+                references=[best_reference],
+                model_type="bert-base-uncased",
+            )
+            avg_bert_f1_best = float(np.mean(bert_scores_best["f1"]))
 
-                # Save detailed results
-                results_dir = "evaluation_results"
-                os.makedirs(results_dir, exist_ok=True)
+            # Calculate average inference time
+            avg_inference_time = sum(inference_times) / len(inference_times)
 
-                # Get timestamp for the evaluation
-                timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            # Save detailed results
+            results_dir = "evaluation_results"
+            os.makedirs(results_dir, exist_ok=True)
 
-                # Prepare sorted detailed results
-                sorted_detailed_results = []
-                for idx, (pred, ref, inf_time, rel, conf) in enumerate(
-                    combined_results, 1
-                ):
-                    sorted_detailed_results.append(
-                        {
-                            "page_number": idx,  # Added page number
-                            "prediction": pred,
-                            "reference": ref,
-                            "inference_time": inf_time,
-                            "relevance_score": rel,
-                            "confidence_score": conf,
-                        }
-                    )
+            # Get timestamp for the evaluation
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
-                detailed_results = {
-                    "model_name": model_name,
-                    "parameter_count_billion": param_count,
-                    "timestamp": timestamp,
-                    "sorted_predictions": sorted_detailed_results,
-                    "metrics": bert_metrics,
-                    "rougeL_best_prediction": rouge_l_best,
-                    "inference_times": {
-                        "individual": sorted_inference_times,
-                        "average": avg_inference_time,
-                        "min": min(sorted_inference_times),
-                        "max": max(sorted_inference_times),
-                        "total": total_inference_time,  # Added total inference time
-                    },
-                }
+            detailed_results = {
+                "model_name": model_name,
+                "parameter_count_billion": param_count,
+                "timestamp": timestamp,
+                "best_prediction": best_prediction,
+                "best_reference": best_reference,
+                "best_relevance_score": best_relevance_score,
+                "rougeL_best_prediction": rouge_l_best,
+                "bert_f1_best_prediction": avg_bert_f1_best,
+                "inference_times": {
+                    "individual": inference_times,
+                    "average": avg_inference_time,
+                    "min": min(inference_times),
+                    "max": max(inference_times),
+                },
+            }
 
-                safe_model_name = model_name.replace(":", "_").replace("/", "_")
-                result_file = (
-                    f"{results_dir}/{safe_model_name}_{timestamp}_sorted_results.json"
-                )
-                with open(result_file, "w") as f:
-                    json.dump(detailed_results, f, indent=4)
+            safe_model_name = model_name.replace(":", "_").replace("/", "_")
+            result_file = f"{results_dir}/{safe_model_name}_{timestamp}_results.json"
+            with open(result_file, "w") as f:
+                json.dump(detailed_results, f, indent=4)
 
-                print(f"\n{model_name} Sorted Results:")
-                for result in sorted_detailed_results:
-                    print(f"\nPage {result['page_number']}:")
-                    print(f"Relevance Score: {result['relevance_score']}")
-                    print(f"Confidence Score: {result['confidence_score']}")
-                    print(f"Inference Time: {result['inference_time']:.4f} seconds")
-                    print(f"Prediction: {result['prediction']}")
+            print(f"\nBest Answer:")
+            print(f"Best answer was found on page {best_index + 1}: {best_prediction}")
+            print(f"BERTScore for best answer: {avg_bert_f1_best:.4f}")
+            print(f"ROUGE-L for best answer: {rouge_l_best:.4f}")
 
-                print("\nPerformance Metrics:")
-                print("Average BERT F1 Score:", bert_metrics["bert_f1"])
-                print("ROUGE-L Score on Best Prediction:", rouge_l_best)
-                print("\nInference Time Statistics:")
-                print(f"Average: {avg_inference_time:.4f} seconds")
-                print(
-                    f"Total: {total_inference_time:.4f} seconds"
-                )  # Display total inference time
-                print(f"Min: {min(sorted_inference_times):.4f} seconds")
-                print(f"Max: {max(sorted_inference_times):.4f} seconds")
-                print(f"\nDetailed sorted results saved to: {result_file}")
-
-                # Display the best result
-                best_result = sorted_detailed_results[0]
-                print("\nBest Answer:")
-                print(
-                    f"Best answer was found on page {best_result['page_number']}: {best_result['prediction']}"
-                )
-
-                return {
-                    "metrics": bert_metrics,
-                    "rougeL_best_prediction": rouge_l_best,
-                    "inference_times": {
-                        "average": avg_inference_time,
-                        "total": total_inference_time,  # Include total inference time
-                        "min": min(sorted_inference_times),
-                        "max": max(sorted_inference_times),
-                    },
-                }
+            return detailed_results
 
         except Exception as e:
             print(f"Error evaluating {model_name}: {e}")
